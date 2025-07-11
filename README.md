@@ -22,6 +22,6 @@ npm run dev
 
 ### 4. Deployment
 Deployed via Vercel:
-https://stratsync.vercel.app
+https://strat-sync-syfu.vercel.app/
 
 
